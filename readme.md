@@ -1,8 +1,8 @@
-# 爬蟲作業提交
+### 爬蟲作業提交
 
-## 提交爬蟲作業（兩種版本）
+提交爬蟲作業（兩種版本）
 
-## 1. 使用 request & beautifulSoup 靜態爬取
+# 1. 使用 request & beautifulSoup 靜態爬取
 
 參考 `h1_req_bs4.ipynb`
 
@@ -22,7 +22,7 @@
 [影片名稱或其它標題](你的影片連結)
 ...
 
-## 2. 使用 selenium 動態爬取
+# 2. 使用 selenium 動態爬取
 
 參考 `h2_selenium.ipynb`
 

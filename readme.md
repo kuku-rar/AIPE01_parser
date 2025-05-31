@@ -2,44 +2,39 @@
 
 ## 提交爬蟲作業（兩種版本）
 
-### 1. 使用 request & beautifulSoup 靜態爬取
+## 1. 使用 request & beautifulSoup 靜態爬取
 
 參考 `h1_req_bs4.ipynb`
 
-# Project Gutenberg
+### Project Gutenberg
 
 爬取中文書籍，共 xxx 本。
 
-## 安裝套件
+### 安裝套件
 
 - requests 2.32.3
 - beautifulsoup4 4.12.3
 
-## 成果
+### 成果
 
 ![](執行過程的擷圖或說明圖片)
 ...
 [影片名稱或其它標題](你的影片連結)
 ...
 
-## 其它你想要補充標題和內容
-
-...
-...
-
-### 2. 使用 selenium 動態爬取
+## 2. 使用 selenium 動態爬取
 
 參考 `h2_selenium.ipynb`
 
-# Project Gutenberg
+### Project Gutenberg
 
 爬取中文書籍，共 xxx 本。
 
-## 安裝套件
+### 安裝套件
 
 - selenium 4.32.0
 
-## 成果
+### 成果
 
 ![](執行過程的擷圖或說明圖片)
 ...

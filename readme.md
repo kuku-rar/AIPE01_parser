@@ -8,7 +8,7 @@
 
 ### Project Gutenberg
 
-爬取中文書籍，共 xxx 本。
+爬取中文書籍，共 401 本。
 
 ### 安裝套件
 
@@ -16,10 +16,8 @@
 - beautifulsoup4 4.12.3
 
 ### 成果
-
-![](執行過程的擷圖或說明圖片)
 ...
-[影片名稱或其它標題](你的影片連結)
+`爬蟲作業1 req+bs4` https://youtu.be/hzYbji2eZq0
 ...
 
 # 2. 使用 selenium 動態爬取
@@ -28,15 +26,11 @@
 
 ### Project Gutenberg
 
-爬取中文書籍，共 xxx 本。
+爬取中文書籍，共 401 本。
 
 ### 安裝套件
 
 - selenium 4.32.0
 
 ### 成果
-
-![](執行過程的擷圖或說明圖片)
-...
-[影片名稱或其它標題](你的影片連結)
-...
+`爬蟲作業2 selenium` https://youtu.be/hzYbji2eZq0
